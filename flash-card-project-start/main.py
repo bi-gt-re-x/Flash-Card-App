@@ -10,6 +10,8 @@ french_word = french_words[random_num]
 english_word = english_words[random_num]
 flip_timer = None
 
+#Tkinter has a very 'clunky' interface. At this point, please learn HTML and CSS and build a website; this one works, so you can run it.
+
 #-----------------------------------------------------------------------------------------Card_Save-----------------------------------------------------------------------------------------#
 def memorized():
     global random_num, english_word, french_word
